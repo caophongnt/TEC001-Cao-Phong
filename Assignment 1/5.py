@@ -7,6 +7,6 @@ sum_numbers = number1 + number2 + number3
 average = sum_numbers / 3
 product = number1 * number2 * number3
 
-print(f"The sum is {sum_numbers}")
-print(f"The average is {average}")
-print(f"The product is {product}")
+print("The sum is", sum_numbers)
+print("The average is", average)
+print("The product is", product)
