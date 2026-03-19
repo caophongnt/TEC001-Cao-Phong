@@ -1,0 +1,19 @@
+THIS ASSIGNMENT REALLY TOOK ME NEARLY 5 DAYS TO WORK WITH EVEN I ALREADY ASK AI FOR TEACH AND HELP A LITTLE BIT. 
+1. Easy Parts
+o Creating the Car class with its basic attributes (registration number, maximum speed, current speed, travelled distance).
+o Writing the initializer (__init__) and printing out the car’s information.
+o Implementing the accelerate method to increase or decrease speed, while keeping it within the limits of 0 and the maximum speed.
+o Implementing the drive method to calculate distance using the simple formula: speed × time.
+2. Harder Parts
+o Programming the car race simulation with 10 cars.
+o Using loops to create multiple car objects with random maximum speeds.
+o Managing the race hour by hour: applying random speed changes, driving each car, and checking when one reaches 10,000 km.
+o Formatting the final results into a clear table.
+3. Time Spent
+* Day 1: Reading the assignment carefully, understanding the requirements, and writing the basic class.
+* Day 2: Adding the accelerate method.
+* Day 3: Adding the drive method.
+* Day 4: Writing the race simulation and testing it repeatedly.
+* Day 5: Fixing small errors, polishing the output, and preparing this report.
+In total, it took me 5 days to complete this assignment.
+
